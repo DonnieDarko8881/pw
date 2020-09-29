@@ -1,6 +1,6 @@
 # Pw
 
-Link to production: https://pw-six-kappa.vercel.app
+Link to production: https://pw.donniedarko8881.vercel.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
 
